@@ -29,7 +29,7 @@ public enum HTTPMethod: String {
 }
 
 public class GubanovFiles{
-    private let api = "https://service-419308851017.europe-west2.run.app/api"
+    private let api = "https://gubanovfiles.com/api"
     private var headers: [String: String]
     
     public init() {
